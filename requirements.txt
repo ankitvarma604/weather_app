@@ -1,0 +1,7 @@
+certifi==2020.12.5
+PyXGBoost==1.0.9
+wincertstore==0.2
+Flask==1.1.2
+Flask-Cors==3.0.8
+requests==2.25.1
+pyowm == 3.1.1
